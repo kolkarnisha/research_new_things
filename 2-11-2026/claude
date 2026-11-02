@@ -1,0 +1,186 @@
+Claude
+You are an elite Job Researcher, Recruiter Intelligence Analyst, and Talent Sourcer.
+Your mission is to find 10 REAL, ACTIVE, and VERIFIED job openings for Freshers in India matching my profile.
+MY PROFILE:
+- Python Developer
+- Python Full Stack Developer
+- Django Developer
+- SQL Developer
+- Backend Developer
+- Software Engineer
+- Fresher / 0-2 Years Experience
+- Location Preference: Bangalore
+- Open to Remote, Hybrid, and On-Site opportunities
+JOB FILTERS:
+- Freshers or Entry-Level
+- 0-2 years experience
+- Bangalore preferred
+- Work From Home, Hybrid, and On-Site
+- IT Companies only
+- Product-based companies preferred
+- Startups, MNCs, and SaaS companies
+- Active hiring only
+- Jobs posted recently
+- Direct company opportunities preferred
+FOR EACH JOB PROVIDE:
+SECTION 1: JOB DETAILS
+1. Company Name
+2. Job Title
+3. Location
+4. Work Mode (Remote/Hybrid/On-Site)
+5. Experience Required
+6. Salary Range (if available)
+7. Job Description Summary
+8. Required Skills
+9. Direct Application Link
+10. Company Careers Page
+11. Posting Date
+12. Why this role matches my profile
+SECTION 2: RECRUITER & REFERRAL DETAILS
+13. Recruiter Name
+14. Recruiter Designation
+15. HR Name (if available)
+16. Talent Acquisition Contact
+17. Hiring Manager Name (if available)
+18. LinkedIn Profile URL
+19. Company Email Format
+20. Verified Recruiter Email (if publicly available)
+21. Company HR Email
+22. Career/Recruitment Contact Page
+SECTION 3: REFERRAL ANALYSIS
+23. Best Person to Contact for Referral
+24. Reason this person is most likely to respond
+25. Suggested Referral Strategy
+26. Referral Success Probability (Low/Medium/High)
+VERIFICATION RULES:
+- Verify every job is active.
+- Exclude expired jobs.
+- Exclude duplicate postings.
+- Do not make up recruiter names, emails, or links.
+- If contact information is unavailable, explicitly state "Not Publicly Available".
+- Prioritize verified information only.
+OUTPUT FORMAT:
+Create a structured table containing all 10 jobs.
+AFTER THE TABLE PROVIDE:
+A. Top 3 easiest companies for freshers.
+B. Top 3 companies with highest growth.
+C. Top 3 remote opportunities.
+D. Top 3 companies most likely to provide referrals.
+E. Top recruiters to contact first.
+F. Personalized referral message for each recruiter.
+G. Personalized email template for HR outreach.
+H. Action plan for applying and requesting referrals within the next 24 hours.
+Goal:
+Help me secure interviews for Python Developer / Python Full Stack Developer roles as quickly as possible by providing both job opportunities and referral contacts.
+
+Searching for active fresher job listings in Bangalore.
+Searching for active fresher job listings in Bangalore.
+I’ll research this with live web search and verify each posting against its source page.
+
+Searched the web, read 6 pages
+I found 8 openings, not 10, and only 3 are firmly confirmed as recent and live. I stopped at 8 because filling the last two would have meant padding the list with stale or unverifiable postings, which you told me not to do. I also found no verifiable recruiter name, LinkedIn URL or email for any of them.
+
+How I verified
+
+✅ Confirmed recent: a source page that cites the official requisition ID and a posting date of 27–29 Oct 2026. I couldn’t open the company’s own application page (the tool blocked those links), so click through to confirm each one is still open.
+🟡 Lead only: listed on a job board, but the posting date is old or missing, so I can’t confirm it is still open.
+Section 1: Job details
+#	Company	Title	Location / Mode	Experience	Salary	Posted	Status
+1	LSEG (FTSE Russell)	Associate Software Engineer (R0124079)	Bengaluru, Divyasree Technopolis / mode not stated	No years stated; internships and projects accepted	Not disclosed	29 Oct 2026	✅
+2	TransUnion	Associate Software Engineer (Req 19042895)	Bengaluru / Hybrid (2+ office days)	0–2 yrs	Not disclosed (Glassdoor reports ₹7–9 LPA, small sample)	29 Oct 2026	✅
+3	Cisco	Software Engineer, cloud applications (Job 2028048)	Bengaluru / Hybrid	0–2 yrs (Bachelor’s)	Not disclosed	27 Oct 2026	✅
+4	Cisco	Software Engineer, Evergreen (Job 2015359)	Bengaluru plus 11 cities / Hybrid	0 yrs	Not disclosed	10 Sep 2026	🟡
+5	Accuris	Associate Software Engineer	Bengaluru / Hybrid (2 days)	Fresher	Not clear (Built In shows “100K–300K”, unit unstated)	Reposted about 22 days before the page was indexed	🟡
+6	Urban Vault	Full Stack Engineer (Django + React)	Bengaluru / On-site	0–1 yrs	Not disclosed	About late Sept, per Weekday	🟡
+7	Covlant (via Weekday)	Software Engineer Intern	Bengaluru / Remote	0 yrs	₹30–50K per month stipend	About 5 days before the page was indexed	🟡
+8	DemandPay	Python Full Stack Developer Intern	Bengaluru	Fresher	₹20–40K per month stipend	Undated	🟡
+Direct application links (as cited by the sources)
+
+LSEG: https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Associate-Software-Engineer_R0124079
+TransUnion: https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Associate-Software-Engineer_19042895 (twin opening: Associate Developer, Req 19042914)
+Cisco 2028048: https://careers.cisco.com/global/en/job/CISCISGLOBAL2028048EXTERNALENGLOBAL/Software-Engineer
+Cisco 2015359: https://careers.cisco.com/global/en/job/CISCISGLOBAL2015359EXTERNALENGLOBAL/Software-Engineer-Evergreen-Full-Time-India-Engineering-UHR
+Accuris: https://builtin.com/job/associate-software-engineer/6998393 (the Built In listing, not the company’s own page)
+Urban Vault: https://www.weekday.works/jobs/python-developer-jobs-in-bangalore-33
+Covlant: https://jobs.lever.co/weekdayworks/a86efff4-1c2e-43fc-8ecb-dc8f873db2f1
+DemandPay: listed on Glassdoor only, with no direct link found.
+Careers pages: careers.cisco.com for Cisco. For LSEG and TransUnion, use the Careers section of each company’s own website, or the Workday boards linked above. I didn’t verify a deeper careers URL for Accuris, Urban Vault or DemandPay.
+
+Role summaries and fit
+
+LSEG. Python is the main language, but Java, C#, Go and similar are accepted if you’re willing to learn Python. The work is on the FTSE Russell index data platform, and SQL, Git and basic REST are expected. This is your best match: Python-first, and no experience minimum is stated. 
+freshershunt
+TransUnion. It’s an entry-level full-stack role, and any one of Java, JavaScript/TypeScript or Python is accepted. Internships and projects count as experience, and React, Spring Boot and Spark are only nice to have. The day-to-day work leans Java, so the Python fit is moderate. Apply to both requisitions. 
+freshershunt
+Cisco 2028048. It builds cloud applications and needs DSA, one of C/C++, Java, Python or Golang, and distributed-system design. It is a stretch for a pure fresher, so expect tough screening. 
+freshershunt
+Cisco 2015359. It is a general 0-year posting, but carries an “Evergreen” tag that can mean slow replies. Treat it as a backup. 
+freshershunt
+Accuris. It’s a fresher role with basic Python, Java or Angular, 60% aggregate required, and a minimum two-year commitment. 
+builtin
+Urban Vault. It wants a junior full-stack developer with Python (Django) and React.js, for 0–1 years. It’s the closest match to “Python Full Stack”, but I can’t confirm it’s still open. 
+weekday
+Covlant. It’s a remote Bengaluru role for current or recent grads, with a 2–6 month stipend and an immediate start. It’s an internship, so it’s only useful as a remote foot in the door. 
+hiredoor
+DemandPay. It’s a Python and Next.js full-stack internship in Bengaluru, with Golang or FastAPI as a bonus. I couldn’t date it. 
+glassdoor
+Sections 2 and 3: Recruiter details and referral analysis
+Recruiter, HR, hiring manager, LinkedIn URL, company email format, recruiter email, HR email: Not Publicly Available, for all 8. The one TransUnion talent-acquisition profile I found (Divya Munvar, via a third-party site) showed her TransUnion tenure ending in 2022, so I didn’t use it.
+
+#	Best person to contact	Why they’re most likely to respond	Referral probability (my estimate)
+1 LSEG	A Python engineer on the FTSE Russell or index-data team who is 1–3 years in	Junior engineers get referral bonuses and remember the fresher hiring process	Medium
+2 TransUnion	A TruAudience engineer in Bengaluru, or a campus recruiter	The same team posted two twin requisitions, so it is hiring in volume	Medium
+3–4 Cisco	A Bangalore Cisco engineer with a similar graduate profile	Cisco has a formal referral system. These requisitions also sit outside the Workday search, so a referral helps visibility	Medium for 2028048, Low for the Evergreen role
+5 Accuris	A Bengaluru engineer or HR contact there	It’s a small team, and a reposted job suggests it is still hiring	Medium
+6 Urban Vault	A founder or engineering lead	It’s a mid-size company, and direct outreach is realistic	Medium
+7–8	The founder or engineer who posted it	Internship roles are filled quickly	Low (full-time conversion only)
+I couldn’t verify who these people are. To find them on LinkedIn, search “[company] Bengaluru Python software engineer” for engineers, and “[company] campus recruiter India” for recruiters.
+
+After the table
+A. Easiest for freshers: LSEG, TransUnion, Accuris.
+
+B. Highest growth: I can’t rank this, because I didn’t collect verified headcount-growth data.
+
+C. Remote: Only Covlant (internship). I found no remote full-time role that fits.
+
+D. Most likely to give referrals: LSEG, TransUnion, Cisco (these are my inference from their size, not verified referral programs).
+
+E. Recruiters to contact first: No verified names, so go in this order: LSEG, TransUnion, then Cisco 2028048.
+
+F. Referral message (replace the brackets; I can’t personalize it by recruiter name):
+
+Hi [Name], I’m a [degree] graduate with Python/Django and SQL projects ([GitHub link]). I saw [Company]’s Associate Software Engineer opening ([Req ID]) in Bengaluru and it fits my background closely. Would you be open to referring me, or to sharing what the team looks for? Resume attached. Thank you!
+
+G. HR email template
+
+Subject: Application for [Role] ([Req ID]), Python Developer, [Your Name]
+
+Dear [Name],
+
+I’m a [year] [degree] graduate who has just applied for [Role] ([Req ID]) at [Company]. My experience includes [one Python/Django project with an outcome], SQL, and REST APIs. I’d welcome a chance to discuss how I can contribute. My resume and GitHub are attached.
+
+Regards, [Name] | [Phone] | [LinkedIn]
+
+H. 24-hour plan
+
+First 2 hours: apply on LSEG, both TransUnion requisitions and Cisco 2028048. Confirm each one is still open at the same time.
+Hours 2–6: find 2–3 Bengaluru engineers at each company on LinkedIn and send the message in F.
+Hours 6–10: apply to Accuris and Urban Vault, and check whether they’re still live.
+Hours 10–24: tidy your GitHub (two Python projects with READMEs), then send follow-ups.
+If you’d like, I can search again for the last two roles, focusing on Django and SQL Developer openings at Bengaluru startups.
+
+Create a Claude Doc from your last answer.
+
+Make doc changes (batch)
+Fresher Python Jobs in Bangalore: Openings and Referral Plan
+Claude Docs
+·Only you
+https://claude.ai/artifact/VV8yTpsA8oDFmXs1rwCCjp
+
+“Fresher Python Jobs in Bangalore: Openings and Referral Plan” is ready. It has the job table, application links, referral analysis, message templates and the 24-hour plan. Read it over, edit inline, or comment.
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Claude finished the response
