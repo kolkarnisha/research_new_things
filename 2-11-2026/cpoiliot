@@ -1,0 +1,279 @@
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personal
+Kolkar
+
+Upgrade
+
+Auto
+
+
+
+
+kolkarNisharesumegold
+i have sent my resume to one hr in linkidin on sep 28 give me a worlds best referal msg
+Since you've already sent your resume and are following up after some time, the message should be respectful, confident, and easy for the HR to respond to.
+
+Option 1: Professional & Powerful (Recommended)
+
+Draft
+
+Hi Deepika,
+I hope you're doing well. I had shared my resume with you on September 28 regarding potential opportunities within your organization. I wanted to follow up and express my continued interest in any Software Engineer, Python Developer, or Python Full Stack Developer roles that may be available.
+I have hands-on experience in Python, Django, MySQL, REST APIs, HTML, CSS, JavaScript, Git, and GitHub, along with multiple full-stack development projects and strong academic credentials.
+If there are any suitable openings, I would be truly grateful if you could consider my profile or refer me to the relevant hiring team. Your support would mean a lot to me.
+Thank you for your time and consideration. I look forward to hearing from you.
+Kind regards,
+Kolkar Nisha
+
+Option 2: Short & High-Response Rate
+
+Draft
+
+Hi Deepika,
+I hope you're doing well. I had shared my resume with you earlier and wanted to politely follow up regarding any suitable Software Engineer or Python Developer opportunities.
+I remain very interested in contributing my skills in Python, Django, SQL, REST APIs, and Full-Stack Development.
+If there are any relevant openings, I would sincerely appreciate your consideration or referral.
+Thank you for your time. Looking forward to your response.
+Best regards,
+Kolkar Nisha
+
+Option 3: Premium Referral Message (Most Persuasive)
+
+Draft
+
+Hi Deepika,
+I hope you're having a great day.
+I wanted to briefly follow up on the resume I shared with you on September 28. Since then, I have continued strengthening my Python Full Stack skills through development projects involving Python, Django, MySQL, REST APIs, and modern web technologies.
+I am actively seeking opportunities as a Python Developer, Python Full Stack Developer, or Software Engineer and would be honored if you could consider my profile for any relevant openings or referral opportunities within your network.
+I genuinely appreciate your time and support. Thank you for giving my profile your consideration, and I look forward to the possibility of connecting further.
+Warm regards,
+Kolkar Nisha
+📧 neeshakolkar@gmail.com
+📱 +91 8688581098
+
+The best option for LinkedIn is Option 1 because it is professional, concise, and has the highest probability of getting a response.
+
+
+
+
+
+
+I couldn’t run the search, and I don’t want to give you a made-up list of 200 names and emails. The Apollo plugin shows as connected, but its search and enrichment tools didn’t load in this chat, so I have nothing real to pull from. A fabricated email list would burn your outreach.
+You can fix this by turning Apollo off and on again under Settings → Connectors, or by starting a fresh chat, and then pasting this request again. Here is how the run would work once the tools load.
+How the run works
+Translate your filters into Apollo fields.
+Titles: Recruiter, Technical Recruiter, Talent Acquisition Specialist or Manager, Engineering Manager, HR Manager and Hiring Manager.
+Person location: India. Company locations: Bengaluru, Hyderabad, Pune, Chennai, Mumbai, Gurgaon and Noida.
+Company size: 51 to 10,000+ employees.
+Find companies with live Python openings. I search companies by size and location, then check each one’s job postings for your 10 role titles. That posting check is what “Actively Hiring” and “Hiring Now” actually mean in Apollo. It’s also where the Current Job Opening URL and posting date come from.
+Enrich the companies. This gives headcount growth, funding, industry and website, which I use for the fast-growing and product-company ranking and for the Careers Page.
+Find the people. I search your title list inside only the companies that passed step 2. Apollo returns 25 per page, so 200+ leads means roughly 10 to 15 paginated calls.
+Reveal verified emails. This is the only step that costs credits, so I’ll show you the exact count before running it.
+Rank and deliver. I’ll sort by posting recency, then verified email, then company growth, then product companies, then remote roles, and give you a table plus a downloadable spreadsheet.
+Where your spec won’t map cleanly
+Experience level: Apollo has no “0–3 years” filter. I’d infer it from titles like Junior, Associate, Entry-Level and Fresher, so some matches will be approximate.
+Sort order: Apollo can’t sort on your five criteria directly, so I’d apply the ranking myself after pulling the data.
+Careers page and LinkedIn: I’ll include them only when Apollo returns them, and I’ll leave blanks rather than guess.
+Volume: 200 leads that also pass the verified-email check may need a wider search. I’ll tell you if fewer qualify.
+Credits: Email reveals typically cost about 1 credit per contact, so 200 leads is roughly 200+ credits, depending on your plan. I’ll confirm the exact number before spending any.
+Once Apollo is working, how many credits are you comfortable spending? I can run a pilot of about 25 leads first to check quality before the full 200.
+edit a new prompt to claude to scrape realeated jobs for freshers,bangalore,work from home and on site both and it companies just 10 jobs as of now
+
+Here's a Claude-ready prompt that is clear, specific, and optimized for finding real fresher Python jobs:
+
+
+
+You are an expert job researcher and hiring analyst.
+ 
+Your task is to find 10 REAL and CURRENTLY ACTIVE job openings for Freshers in India that match the following criteria:
+ 
+TARGET ROLES:
+- Python Developer
+- Python Full Stack Developer
+- Junior Python Developer
+- Django Developer
+- Software Engineer (Python)
+- Backend Developer (Python)
+- Associate Software Engineer
+ 
+FILTERS:
+- Freshers or 0-2 years experience
+- Bangalore preferred
+- Include both Work From Home and On-Site opportunities
+- IT companies only
+- Jobs posted recently
+- Direct company careers pages preferred over job boards
+- Exclude staffing agencies whenever possible
+ 
+For each job, provide:
+ 
+1. Company Name
+2. Job Title
+3. Location
+4. Work Mode (Remote / Hybrid / On-site)
+5. Experience Required
+6. Salary (if available)
+7. Job Description Summary
+8. Skills Required
+9. Direct Application Link
+10. Company Careers Page Link
+11. Posting Date (if available)
+12. Why this role is suitable for a fresher
+ 
+Verification Rules:
+- Verify that every job link is accessible.
+- Do not provide expired, closed, or duplicate openings.
+- Prioritize openings from reputed product companies, startups, and MNCs.
+- Rank results by freshness and relevance.
+ 
+Output Format:
+Create a clean table containing all 10 jobs.
+ 
+After the table, provide:
+- Top 3 easiest companies for freshers to get interviews.
+- Top 3 highest-growth companies.
+- Top 3 remote opportunities.
+- Best job among all 10 based on long-term career growth.
+ 
+Only return genuine currently active openings.
+This prompt is designed to make Claude act like a job research assistant and return a focused list of 10 real fresher Python jobs (Bangalore + Remote + IT companies) with direct application links.
+
+
+
+
+
+
+addto prompt along with hrs mails - contacts and details to ask referrals
+Use this upgraded Claude / Apollo / Perplexity prompt to find real jobs plus recruiter contacts and referral opportunities:
+
+
+
+You are an elite Job Researcher, Recruiter Intelligence Analyst, and Talent Sourcer.
+ 
+Your mission is to find 10 REAL, ACTIVE, and VERIFIED job openings for Freshers in India matching my profile.
+ 
+MY PROFILE:
+- Python Developer
+- Python Full Stack Developer
+- Django Developer
+- SQL Developer
+- Backend Developer
+- Software Engineer
+- Fresher / 0-2 Years Experience
+- Location Preference: Bangalore
+- Open to Remote, Hybrid, and On-Site opportunities
+ 
+JOB FILTERS:
+- Freshers or Entry-Level
+- 0-2 years experience
+- Bangalore preferred
+- Work From Home, Hybrid, and On-Site
+- IT Companies only
+- Product-based companies preferred
+- Startups, MNCs, and SaaS companies
+- Active hiring only
+- Jobs posted recently
+- Direct company opportunities preferred
+ 
+FOR EACH JOB PROVIDE:
+ 
+SECTION 1: JOB DETAILS
+1. Company Name
+2. Job Title
+3. Location
+4. Work Mode (Remote/Hybrid/On-Site)
+5. Experience Required
+6. Salary Range (if available)
+7. Job Description Summary
+8. Required Skills
+9. Direct Application Link
+10. Company Careers Page
+11. Posting Date
+12. Why this role matches my profile
+ 
+SECTION 2: RECRUITER & REFERRAL DETAILS
+13. Recruiter Name
+14. Recruiter Designation
+15. HR Name (if available)
+16. Talent Acquisition Contact
+17. Hiring Manager Name (if available)
+18. LinkedIn Profile URL
+19. Company Email Format
+20. Verified Recruiter Email (if publicly available)
+21. Company HR Email
+22. Career/Recruitment Contact Page
+ 
+SECTION 3: REFERRAL ANALYSIS
+23. Best Person to Contact for Referral
+24. Reason this person is most likely to respond
+25. Suggested Referral Strategy
+26. Referral Success Probability (Low/Medium/High)
+ 
+VERIFICATION RULES:
+- Verify every job is active.
+- Exclude expired jobs.
+- Exclude duplicate postings.
+- Do not make up recruiter names, emails, or links.
+- If contact information is unavailable, explicitly state "Not Publicly Available".
+- Prioritize verified information only.
+ 
+OUTPUT FORMAT:
+Create a structured table containing all 10 jobs.
+ 
+AFTER THE TABLE PROVIDE:
+ 
+A. Top 3 easiest companies for freshers.
+B. Top 3 companies with highest growth.
+C. Top 3 remote opportunities.
+D. Top 3 companies most likely to provide referrals.
+E. Top recruiters to contact first.
+F. Personalized referral message for each recruiter.
+G. Personalized email template for HR outreach.
+H. Action plan for applying and requesting referrals within the next 24 hours.
+ 
+Goal:
+Help me secure interviews for Python Developer / Python Full Stack Developer roles as quickly as possible by providing both job opportunities and referral contacts.
+Pro tip: Add your resume text below this prompt when using Claude or Perplexity. That makes the referral suggestions and job matching much more accurate.
+
+
+
+
+
+
+
+Add my resume into the prompt
+
+Include a LinkedIn referral message
+
+Limit results to verified contacts
+
+
+
+Message Copilot
+
+
+
+AI-generated content may be incorrect
